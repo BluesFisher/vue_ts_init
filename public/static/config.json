@@ -1,0 +1,17 @@
+{
+    "data": {
+        "mta": {
+            "sid": "500664029",
+            "cid": "500664030",
+            "autoReport": "0",
+            "senseHash": "0",
+            "senseQuery": "0",
+            "performanceMonitor": "1",
+            "ignoreParams": "[]"
+        }
+    },
+    "timeReport": {
+        "proj": "b61abe8131f74cb09330266225caba4f",
+        "url": "https://doctor.qq.com/common/reporter/time"
+    }
+}
